@@ -23,3 +23,7 @@ En la seccion `Embeddings`
 - `document_embeddings = np.load('/kaggle/working/document_embeddings.npy', allow_pickle=True)`
 
 Se recomienda ejecutar el sistema por primera vez con una GPU para acelerar el procesos de generación de embeddings. Se procesan 2.7k documentos, usando GPU todo el notebook tarda poco más de 4 minutos.
+
+> Nota:
+>
+> El notebook no se puede previsualizar en GitHub, en caso de que se quisiera previsualizar, el notebook se encuentra disponible en el siguiente [enlace](https://www.kaggle.com/code/laloromero/rag-using-topic-modeling)
