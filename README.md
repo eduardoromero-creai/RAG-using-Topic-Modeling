@@ -1,7 +1,7 @@
 # Sistema RAG híbrido con Topic Modeling
 El codigo se encuentra en un notebook donde la data se extrae de un dataset de Kaggle.
 
-Para poder ejecutar el codigo basta con abrir el enlace en algun editor de codigo que permita ejecutar python notebooks e instalar las siguientes dependencias
+Para poder ejecutar el codigo basta con hacer un fork al proyecto y abrir el proyecto en algún editor de codigo que permita ejecutar python notebooks e instalar las siguientes dependencias
 ```
 ! pip install sentence-transformers
 ! pip install hdbscan umap-learn
